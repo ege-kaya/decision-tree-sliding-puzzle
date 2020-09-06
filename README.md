@@ -2,4 +2,4 @@
 
 Uses a decision tree to solve a given sliding puzzle.
 
-![A sliding puzzle](https://miro.medium.com/max/1046/1*_n4hcTM-akUEoWL1i05xVg.png "Example of a sliding puzzle")
+![A sliding puzzle](https://inst.eecs.berkeley.edu/~cs61c/fa14/projs/02/img/sliding_puzzle.png "Example of a sliding puzzle")
